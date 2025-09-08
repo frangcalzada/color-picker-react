@@ -1,12 +1,25 @@
-# React + Vite
+🎨 Color Picker React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación sencilla creada con React + Vite que permite seleccionar colores de una paleta predefinida o elegir un color personalizado mediante un selector de color. Al hacer clic en un color, el fondo de la aplicación cambia dinámicamente.
 
-Currently, two official plugins are available:
+🎯 Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React 19
 
-## Expanding the ESLint configuration
+Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📸 Vista previa
+
+<img width="898" height="421" alt="Captura de pantalla 2025-09-07 a la(s) 9 39 46 p m" src="https://github.com/user-attachments/assets/b24e0c2a-4382-4a23-9b92-7ecdf4adf812" />
+
+
+🛠️ Instalación y uso
+
+Clonar el repositorio:
+```
+git clone https://github.com/frangcalzada/color-picker-react.git
+cd color-picker-react
+
+npm install
+
+npm run dev
